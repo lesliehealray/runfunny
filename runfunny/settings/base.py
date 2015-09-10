@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sitemaps',
     # External apps
     'compressor',
+    'embed_video',
+    'run',
 ]
 
 MIDDLEWARE_CLASSES = [
